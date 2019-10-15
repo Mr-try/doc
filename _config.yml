@@ -89,7 +89,7 @@ exclude_generator:
 
 deploy:
  type: git
- repository: https://github.com/Mr-try/Mr-try.github.io.git
+ repository: https://github.com/Mr-try/doc.git
  branch: gh-pages
 
 sitemap:
